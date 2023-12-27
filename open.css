@@ -116,7 +116,7 @@ p {
 }
 
 #letter img {
-  height: 50%;
+  height: 80%;
 }
 a {
   color: red;
@@ -124,9 +124,9 @@ a {
 #envelope button {
   display: block;
   z-index: 15;
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  border-radius: 80%;
   border: none;
   background-color: rgb(255, 89, 0);
   font-weight: bold;
